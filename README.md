@@ -29,7 +29,7 @@ Fire your console and type:
 virtualenv creates a virtual environment where we can mess around without caring to break something (if
 everything is done correctly, of course!)
 
-Let's create a folder for our project, let's call it django-bproject. Initialize the django-project typing 
+First let's create a folder for our project, let's call it django-bproject (it does not matter if we create it from the command prompt or 'manually'). Now let's initialize the django-project typing in the command line (if you haven't updated your path, you should do it from the Scripts level and the folder is going to be created in the Scripts folder) 
 `django-admin.py startproject bproject django-bproject`
 the last two arguments are respectively the name of the folder where will live the "core" structure
 of our project and the folder where we want to initialize the django project. If you don't have a folder
